@@ -8,4 +8,6 @@ echo "Some files might not be needed for tracking, add them to '.gitignore'"
 echo "To check differences between files, use 'git diff FILENAME'"
 echo "To include all files in a git command use the period, like 'git add .'"
 
+echo "Git calls 'HEAD' the most recent change against the latest commit, use 'git diff HEAD' to see it"
+
 
